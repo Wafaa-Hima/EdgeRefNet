@@ -1,4 +1,3 @@
-# EdgeRefNet
 
 # EdgeRefNet: An Edge-Guided Refinement Network for Building Change Detection in Remote Sensing Images
 Here, we provide the PyTorch implementation of the paper: EdgeRefNet: Edge-Guided Enhancement and Refinement Network for Building Change Detection of Remote Sensing Images
